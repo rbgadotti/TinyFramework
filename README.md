@@ -1,8 +1,13 @@
-# Tiny Framework #
+# Tiny Framework
+A simple PHP framework to explain the concepts of requests, responses and how a router works, using regex and single responsibility principles
 
-Framework example (Created by myself)
+# What I Learned
+* Single responsibility principle
+* Regex
+* How a router works
+* Http Verbs
 
-### Usage ###
+### Usage
 
 ```php
 
