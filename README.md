@@ -1,5 +1,7 @@
 # Tiny Framework #
 
+Framework example (Created by myself)
+
 ### Usage ###
 
 ```php
